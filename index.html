@@ -43,8 +43,17 @@
       messagingSenderId: "125779817773",
       appId: "1:125779817773:web:5f8028e8079c9048a7cfa4"
     };
+    var secondaryFirebaseConfig = {
+    apiKey: "AIzaSyByNDCZRyZguHujFwm-8FD313UKTt-LNjg",
+    authDomain: "ctag-70c98.firebaseapp.com",
+    projectId: "ctag-70c98",
+    storageBucket: "ctag-70c98.appspot.com",
+    messagingSenderId: "169419495902",
+    appId: "1:169419495902:web:eadf986ce03e8ff624a54f"
+  };
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
+    firebase.initializeApp(secondaryFirebaseConfig);
   </script>
   <!-- This script installs service_worker.js to provide PWA functionality to
        application. For more information, see:
@@ -52,7 +61,7 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=2046899792');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=3597233899');
       });
     }
   </script>
