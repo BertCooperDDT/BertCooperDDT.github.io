@@ -3,8 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "88b9bf995da3c2c1fb885f5d1470fe05",
+  "assets/AssetManifest.json": "e9796863f97e3e5b2e488344f72075d3",
 "assets/assets/images/coming_soon.png": "246c941c0db0dfaaab91a4214fbfb393",
+"assets/assets/images/nebula_background_purple.jpg": "41f77a10bcec0fbf26d7c35b5ca8d9b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/NOTICES": "25822c0384474bc105b3c65adc5a4239",
@@ -12,9 +13,9 @@ const RESOURCES = {
 "favicon.png": "18466906a160c9dfab8779c116fe9bae",
 "icons/Icon-192.png": "dbb49fc3da389c692b386a87bf761f6c",
 "icons/Icon-512.png": "bdf2496438d8bf62c2466c140868a88a",
-"index.html": "e5f1e9a7bc5217ffda85175ff6391193",
-"/": "e5f1e9a7bc5217ffda85175ff6391193",
-"main.dart.js": "5dd3f83a27f6681c407e8309320ee5a8",
+"index.html": "7210eb88de4bbcf60a4d0e20755e3184",
+"/": "7210eb88de4bbcf60a4d0e20755e3184",
+"main.dart.js": "6f2a63b6cc4ca0cbb1550bd7bf61a850",
 "manifest.json": "be5404b3f5a4d34a49c90f167b15b030",
 "version.json": "9b794cb78026afe466e9d7f24536166c"
 };
