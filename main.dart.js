@@ -55279,7 +55279,7 @@ a_t:function(a){this.aC(new Y.a_E(this,a))},
 a_w:function(a){var s=this.d,r=P.cf(0,300),q=t.sa.a(C.b.gbR(s.d))
 q.h0(q.lb(a),C.ln,r)},
 vI:function(a){var s=null
-return M.j5(s,L.cH(a,A.d2(s,s,s,s,s,s,s,s,s,s,s,this.c.Z(t.w).f.a.a<650?20:35,s,C.cr,s,s,!0,s,s,s,s,s,s)),s,s,s,s,s,s,s)},
+return M.j5(s,L.cH(a,A.d2(s,s,s,s,s,s,s,s,s,s,s,this.c.Z(t.w).f.a.a<650?16:35,s,C.cr,s,s,!0,s,s,s,s,s,s)),s,s,s,s,s,s,s)},
 L:function(a,b){var s,r=this,q=null,p=K.aG(b).b,o=L.cH("Cooper Apps Database Dashboard",q),n=t.fQ,m=new E.vd(H.c([r.vI("SAM TESTS"),r.vI("SAM TRAINING"),r.vI("CTAG")],n),r.geJ(),q),l=m.gxN().b
 l=56+(l==null?0:l)
 n=H.c([new T.ut(q),new Q.uv(q),new R.qv(q)],n)
